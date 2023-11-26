@@ -6,4 +6,16 @@
       "password": "password"
     }
   ]
+  "zakupy": [
+    {
+      "id": 1,
+      "name": "Nanany",
+      "ilosc": 4
+    },
+    {
+      "id": 2,
+      "body": "Gruszki",
+      "ilosc": 3
+    }
+  ],
 }
