@@ -1,21 +1,21 @@
 {
-  "users":[
+  "users": [
     {
       "id": 1,
-      "login":"test",
-      "password": "password"
+      "login": "test"
+      "password": "test"
     }
   ],
   "zakupy": [
     {
       "id": 1,
-      "name": "Nanany",
-      "ilosc": 4
+      "nazwa": "banany",
+      "ilosc": 14
     },
     {
       "id": 2,
-      "body": "Gruszki",
-      "ilosc": 3
+      "nazwa": "gruszki",
+      "ilosc": 10
     }
   ]
 }
